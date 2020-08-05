@@ -48,7 +48,7 @@
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="https://github.com/vsamarcus/proffy/blob/master/.github/web-landing-page.png?raw=true" width="350px">
-   <img src="https://github.com/vsamarcus/proffy/blob/master/.github/web-landing-page.png?raw=true" width="350px" style="margin-left:12px;">
+   <img src="https://github.com/vsamarcus/proffy/blob/master/.github/web-study-page.png?raw=true" width="350px" style="margin-left:12px;">
 </div>
 
 # :computer: Technologies
