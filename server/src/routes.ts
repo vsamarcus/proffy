@@ -10,6 +10,7 @@ const ConnectioncController = new connectionsControllers();
 routes.get("/classes", ClassesController.index);
 routes.post("/classes", ClassesController.create);
 
+routes.get("/connections", ConnectioncController.index);
 routes.post("/connections", ConnectioncController.create);
 
 export default routes;
